@@ -1,0 +1,10 @@
+@article{REPO076,
+    author = "Sun, Shixuan and Sun, Xibo and Che, Yulin and Luo, Qiong and He, Bingsheng",
+    journal = "Proceedings of the VLDB Endowment",
+    number = "2",
+    pages = "176--188",
+    publisher = "VLDB Endowment",
+    title = "{RapidMatch: A Holistic Approach to Subgraph Query Processing}",
+    volume = "14",
+    year = "2020"
+}
