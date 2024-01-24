@@ -1,0 +1,9 @@
+mkdir build
+cd build
+cmake ..
+make
+
+cd test
+python test.py ../build/matching/RapidMatch.out
+
+./RapidMatch.out -d ../../dataset/simple_dataset/test_case_1.graph -q ../../dataset/simple_dataset/query1_positive.graph -order nd -preprocess true -num MAX -time_limit 60
